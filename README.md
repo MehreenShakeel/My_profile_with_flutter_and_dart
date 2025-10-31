@@ -27,7 +27,6 @@ Showcases **Material Design**, **navigation**, **custom widgets**, and **clean a
 |--------|--------|--------|
 | ![Welcome](screenshots/welcome.png) | ![Profile](screenshots/profile.png) | ![About Me](screenshots/about_me.png) |
 
-> *Screenshots taken on Chrome (Web)*
 
 ## Tech Stack
 
